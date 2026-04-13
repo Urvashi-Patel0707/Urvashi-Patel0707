@@ -17,7 +17,7 @@ I’m currently strengthening my skills in Python, SQL, Pandas, Excel, and Micro
 - Microsoft Fabric (Notebooks, Lakehouse)
 - Git & GitHub
 
-  ## What drives me
+## What drives me
 I love uncovering patterns, simplifying complex information, and creating solutions that genuinely help people. My background in customer experience gives me a unique perspective — I always think about the “why” behind the data and the impact on real users.
 
 ## My goal
