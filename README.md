@@ -18,9 +18,6 @@ I’m currently strengthening my skills in Python, SQL, Pandas, Excel, and Micro
 - Data Cleaning & Transformation
 - Data Visualization & Storytelling
 
-- 
-
-- 
 
 ## What drives me
 I love uncovering patterns, simplifying complex information, and creating solutions that genuinely help people. My background in customer experience gives me a unique perspective — I always think about the “why” behind the data and the impact on real users.
