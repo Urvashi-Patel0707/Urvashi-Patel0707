@@ -1,4 +1,4 @@
-## Urvashi Patel - Data Analyst Portfolio
+## Urvashi Patel - Aspiring Data Analyst | Python • SQL • Excel • Microsoft Fabric
 
 ## About Me
 Hi, I’m Urvashi — a Customer Experience Consultant transitioning into Data Analytics, with a passion for turning raw data into meaningful insights. I enjoy solving problems, improving processes, and building data‑driven solutions that make work easier for both teams and customers.
@@ -10,12 +10,17 @@ I’m currently strengthening my skills in Python, SQL, Pandas, Excel, and Micro
 - Creating dashboards and visualisations
 - Improving my documentation and storytelling skills
 
-## Tools & Technologies
+## 🛠 Skills
 - Python (Pandas, NumPy, Matplotlib)
-- SQL
-- Excel (advanced functions, dashboards)
+- SQL (Joins, Aggregations, Window Functions)
+- Excel (Pivot Tables, Dashboards, Advanced Formulas)
 - Microsoft Fabric (Notebooks, Lakehouse)
-- Git & GitHub
+- Data Cleaning & Transformation
+- Data Visualization & Storytelling
+
+- 
+
+- 
 
 ## What drives me
 I love uncovering patterns, simplifying complex information, and creating solutions that genuinely help people. My background in customer experience gives me a unique perspective — I always think about the “why” behind the data and the impact on real users.
